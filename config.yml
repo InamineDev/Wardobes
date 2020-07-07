@@ -1,0 +1,81 @@
+armor:
+  set0:
+    permission: black
+    red: 29
+    green: 29
+    blue: 33
+  set1:
+    permission: brown
+    red: 131
+    green: 84
+    blue: 50
+  set2:
+    permission: white
+    red: 249
+    green: 255
+    blue: 254
+  set3:
+    permission: red
+    red: 176
+    green: 46
+    blue: 38
+  set4:
+    permission: orange
+    red: 249
+    green: 128
+    blue: 29
+  set5:
+    permission: yellow
+    red: 254
+    green: 216
+    blue: 61
+  set6:
+    permission: green
+    red: 94
+    green: 124
+    blue: 22
+  set7:
+    permission: lime
+    red: 128
+    green: 199
+    blue: 31
+  set8:
+    permission: cyan
+    red: 22
+    green: 156
+    blue: 156
+  set9:
+    permission: blue
+    red: 60
+    green: 68
+    blue: 170
+  set10:
+    permission: lightblue
+    red: 58
+    green: 179
+    blue: 218
+  set11:
+    permission: magenta
+    red: 199
+    green: 78
+    blue: 189
+  set12:
+    permission: purple
+    red: 137
+    green: 50
+    blue: 184
+  set13:
+    permission: pink
+    red: 243
+    green: 139
+    blue: 170
+  set14:
+    permission: gray
+    red: 71
+    green: 79
+    blue: 82
+  set15:
+    permission: lightgray
+    red: 157
+    green: 157
+    blue: 151
